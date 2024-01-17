@@ -5,7 +5,9 @@ table,tr,td{
 h1{
     color:goldenrod;
 }
-
+p{
+    background-color:burlywood;
+}
 *{
     background-color:chucknorris;
     color:gainsboro;
