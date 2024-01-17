@@ -2,8 +2,13 @@ table,tr,td{
     border: 5px solid black;
     border-collapse: collapse;
 }
-
+h1{
+    color:goldenrod;
+}
+p{
+    background-color:burlywood;
+}
 *{
     background-color:chucknorris;
-    color:white;
+    color:gainsboro;
 }
