@@ -2,6 +2,9 @@ table,tr,td{
     border: 5px solid black;
     border-collapse: collapse;
 }
+h1{
+    color:goldenrod;
+}
 
 *{
     background-color:chucknorris;
